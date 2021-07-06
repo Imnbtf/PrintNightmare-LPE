@@ -10,7 +10,7 @@ PrintNightmare-lpe.exe PAYLOAD_DLL_PATH
 
 Exploit has been tested on the fully updated Windows Server 2012 R2 Datacenter.
 
-![poc](./poc.png)
+<p align="center"><img src="https://github.com/Imnbtf/PrintNightmare-LPE/blob/main/poc.PNG" alt="Local Privilege Escalation"></p>
 
 
 ## References
